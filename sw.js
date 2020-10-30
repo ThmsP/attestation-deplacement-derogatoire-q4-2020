@@ -48,6 +48,10 @@ self.__precacheManifest = [
     "revision": "de5e22b15cf20cb0d586a036d714ee3f"
   },
   {
+    "url": "certificate.1e3570bc.pdf",
+    "revision": "623cac53a40c141642b22bf50fe14628"
+  },
+  {
     "url": "certificate.d1673940.pdf",
     "revision": "624e7a3f5560db68d93eda0129cc2922"
   },
@@ -56,12 +60,20 @@ self.__precacheManifest = [
     "revision": "cc96a523e05a5ec85aca2b651bf07d61"
   },
   {
+    "url": "confidentialite.2f395007.js",
+    "revision": "fdaad1887614bbc6822d8a5abb2234ff"
+  },
+  {
     "url": "confidentialite.9c763be1.js",
     "revision": "bd02eaf5385a95b538b0f147fd978c89"
   },
   {
+    "url": "confidentialite.daef9682.css",
+    "revision": "9caf330c4bbb593fbc8d2eb58a9e085c"
+  },
+  {
     "url": "confidentialite.html",
-    "revision": "25f70862c7800d85b4fbedb61a65c168"
+    "revision": "4bce5357393a4b0e58eee0842ffa7e8d"
   },
   {
     "url": "favicon-16x16.a4687270.png",
@@ -73,7 +85,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "056fc61f0ce2d94e70cba0b31ca43ca4"
+    "revision": "8ba23533431c6e686ffbf81fb2f7b968"
   },
   {
     "url": "logo_dnum_dark.0fe33c5b.svg",
@@ -88,8 +100,16 @@ self.__precacheManifest = [
     "revision": "4ff4d0351a40e3e74cd8cec4fd7e1624"
   },
   {
+    "url": "main.46abc703.js",
+    "revision": "0a91735ebd12b37d0d43cc2fe59a131b"
+  },
+  {
     "url": "main.c7be006b.js",
     "revision": "768b0e502533567bb2a32ae96508c367"
+  },
+  {
+    "url": "main.daef9682.css",
+    "revision": "7d236ed06e460d3f2096e07384bbc079"
   },
   {
     "url": "marianne-bold-webfont.1505950c.woff2",
@@ -121,7 +141,7 @@ self.__precacheManifest = [
   },
   {
     "url": "./",
-    "revision": "8f78ece5505385293f978855dc740269"
+    "revision": "92f7e6febc3998647b6335d2893988c6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
